@@ -2,7 +2,7 @@ let userName = 'Emy';
 (userName)? console.log(`Hello, ${userName}`): console.log('Hello');
 
 let userQuestion = 'I will change job?';
-console.log(`${userName} Your question is: ${userQuestion}`)
+console.log(`${userName} asked: "${userQuestion}"`)
 
 const randomNumber = Math.floor(Math.random() * 8);
 
