@@ -1,11 +1,15 @@
-/* // I declared a variable with the name kelvin and assign a value of 293
+// I declared a variable with the name kelvin and assign a value of 293
 let kelvin = 256;
 // I declared another variable and assign a new value wich it is a subtracting operation between my first variable less 273
 let celsius = kelvin - 273;
 // new variable declares with let, because we are going to change the value of kelvin's variable all the time, and also we add a method to help us to round the number we get 
 let fahrenheit = Math.floor(celsius * (9/5) + 32);
 
-console.log(`the temperature is: ${fahrenheit} degrees Fahrenheit.`); */
+console.log(`the temperature is: ${fahrenheit} degrees Fahrenheit.`);
+
+
+
+
 
 
 
@@ -35,7 +39,7 @@ if (testGrade >= 0 && testGrade < 65){
 
 
 //Military Greetings
-const name = 'Emiliana';
+/* const name = 'Emiliana';
 const rank = 'Private';
 let age = 78 ;
 
@@ -50,5 +54,5 @@ if (age < 18){
 }else{
   console.log(`Hello ${rank}, ${name}, I cannot wait to celebrate your ${age + 1}th birthday next year!`)
 } 
-
+ */
 
